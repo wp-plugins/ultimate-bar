@@ -1,5 +1,5 @@
 === Ultimate Bar ===
-Contributors: Umar Bajwa
+Contributors: UmarBajwa
 Tags:Bar,Ultimate bar,WP Bar,wordpress bar plugin,email subscribe,jbar,nbar,Bar Plugin,scroll to top,popup,traffic,seo,promotions bar,announcement bar,alert bar,ad bar on top, Add advertise bar on top, market yourself, notification bar, notification bar bottom, notification bar plugin, Notify users, sign up bar on top, subscribe bar
 Donate Link : http://web-settler.com/ultimate-bar
 Requires at least:2.2
@@ -16,11 +16,11 @@ Ultimate bar plugin offers simple and user friendly user interface. Customizable
 Responsive , zero coding skills required, fulfill your needs.
 
 <strong>Features : </strong>
-* Simple and Elegant design
-* Shortcode supported
-* You can add ads
-* Can be used as subscribe form
-* You can embed videos pictures documents and alot more
+* Simple and Elegant design.
+* Shortcode supported.
+* You can add ads.
+* Can be used as subscribe form.
+* You can embed videos pictures documents and alot more.
 
 
 
