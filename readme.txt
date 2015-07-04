@@ -18,13 +18,9 @@ Responsive , zero coding skills required, fulfill your needs.
 <strong>Features : </strong>
 
 * Simple and Elegant design.
-
 * Shortcode supported.
-
 * You can add ads.
-
 * Can be used as subscribe form.
-
 * You can embed videos pictures documents and alot more.
 
 
@@ -35,5 +31,8 @@ Responsive , zero coding skills required, fulfill your needs.
 * Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your WordPress installation and then activate the Plugin from Plugins page.
 
 == Screenshots ==
-
-For live demo please visit : http://web-settler.com/ultimate-bar
+1. Example 1
+2. Example 2
+3. Example 3
+4. Example 4
+5. Example 5
