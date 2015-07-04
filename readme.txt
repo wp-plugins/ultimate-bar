@@ -16,11 +16,17 @@ Ultimate bar plugin offers simple and user friendly user interface. Customizable
 Responsive , zero coding skills required, fulfill your needs.
 
 <strong>Features : </strong>
+
 * Simple and Elegant design.
+
 * Shortcode supported.
+
 * You can add ads.
+
 * Can be used as subscribe form.
+
 * You can embed videos pictures documents and alot more.
+
 
 
 
