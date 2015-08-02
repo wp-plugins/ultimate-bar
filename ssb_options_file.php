@@ -16,7 +16,6 @@
 
 register_activation_hook(__FILE__,'ssb_activating_options');
 function ssb_activating_options(){
-	//add_option('optionName','defaultValue');
 	add_option('ssb_enable','Enable'); 	
 	add_option('ssb_content','Put Some Content Here!');
 	add_option('ssb_background_color','#000');
@@ -46,7 +45,6 @@ function ssb_activating_options(){
 add_action('wp_head','ssb_sett_to_head');
 function ssb_sett_to_head(){
 
-	// $optionName = get_option('optionName');
 	$ssb_enable = get_option('ssb_enable');
 	$ssb_vertical_position = get_option('ssb_vertical_position');
 	$ssb_content = get_option('ssb_content');
@@ -74,7 +72,6 @@ function ssb_sett_to_head(){
 
 add_action('admin_init','ssb_reg_sett');
 function ssb_reg_sett(){
-	//register_setting( 'ssb_setting_group', $option_name);
 	register_setting( 'ssb_setting_group', 'ssb_enable');
 	register_setting('ssb_setting_group','ssb_content');
 	register_setting( 'ssb_setting_group', 'ssb_bar_template');
@@ -98,12 +95,5 @@ function ssb_reg_sett(){
 	register_setting('ssb_setting_group','ssb_bar_email_placeholder');
 	register_setting('ssb_setting_group','ssb_bar_email_submit_text');
 }
-
-
-
-
-
-
-
 
  ?>
