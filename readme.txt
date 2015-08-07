@@ -2,8 +2,8 @@
 Contributors: umarbajwa
 Tags:Bar,Ultimate bar,WP Bar,wordpress bar plugin,email subscribe,jbar,nbar,Bar Plugin,scroll to top,popup,traffic,seo,promotions bar,announcement bar,alert bar,ad bar on top, Add advertise bar on top, market yourself, notification bar, notification bar bottom, notification bar plugin, Notify users, sign up bar on top, subscribe bar,call to action, conversion, email, form, mailchimp, MailChimp form, mailchimp sign-up, newsletter, opt-in, sign up, subscribe, top bar,attention bar, bar, bottom bar, discount offer, fixed bar, floating bar, heads up, heads up bar, headsup, headsupbar, hellobar, highlight bar, important, message, message bar, notice, notification, notification bar, offer, popup, popup bar, quick bar, special offer, sticky bar, sticky header, Toolbar, top bar, wordpress notification bar,marketing,sales,special offer
 Donate Link : http://web-settler.com/ultimate-bar
-Requires at least:2.2
-Tested up to :4.2
+Requires at least: 2.2
+Tested up to: 4.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
