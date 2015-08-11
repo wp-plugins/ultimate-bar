@@ -71,7 +71,7 @@ function ssb_bar_plugin_ui(){ //UI function
 	<label for="ssb_content">Add Bar Text : </label>
 	<!-- <textarea name="ssb_content" placeholder='Enter Some text' width='200px' cols='20' rows="10" value="<?php //echo get_option('ssb_content'); ?>"><?php //echo get_option('ssb_content'); ?></textarea> -->
 	<br>
-	<?php $settings = array('media_buttons'=> false,'ssb_content','textarea_rows'=>4);
+	<?php $settings = array('media_buttons'=> false,'ssb_content','textarea_rows'=>5);
    $ssb_content = get_option('ssb_content');
    wp_editor($ssb_content,'ssb_content',$settings); ?>
 

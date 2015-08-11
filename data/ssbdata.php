@@ -21,7 +21,7 @@ if (!preg_match("/([\w\-]+\@[\w\-]+\.[\w\-]+)/",$data))
 else{
 	
 	$file = "sm_subcribers-list.csv"; 
-	$fp = fopen($file, "a")or die("Error Couldn't open $file!");
+	$fp = fopen($file, "a")or die("Error Couldn't open $file for writing!");
 	fwrite($fp, $data)or die("Error Couldn't write values to file!"); 
 	fclose($fp); 
 }
